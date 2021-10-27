@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="342dp"
+        android:layout_height="234dp"
+        android:layout_marginTop="32dp"
+        android:contentDescription="@string/todo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/home_made_lemonade_recipe"
+        tools:ignore="ImageContrastCheck" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="343dp"
+        android:layout_height="286dp"
+        android:layout_marginStart="33dp"
+        android:layout_marginLeft="33dp"
+        android:layout_marginEnd="33dp"
+        android:layout_marginRight="33dp"
+        android:text="@string/lemonade_is_a_beloved_refreshment_and_for_good_reason_it_s_the_perfect_balance_of_sweet_and_tart_making_it_extremely_refreshing_on_a_hot_day_it_s_also_very_easy_to_make_at_home_requiring_only_three_basic_ingredients_and_a_few_minutes_of_your_time_you_ll_never_reach_for_bottled_lemonade_at_the_store_again_nevermind_the_powdered_and_frozen_stuff_this_recipe_makes_one_pitcher_of_lemonade_or_about_six_servings_it_s_easy_to_scale_it_up_or_down_depending_on_the_size_of_your_party_feel_free_to_adjust_the_sugar_to_make_a_more_or_less_sweet_lemonade_and_enjoy_it_as_is_or_mix_it_into_iced_tea_punch_or_even_mixed_drinks_serve_homemade_lemonade_at_your_next_barbecue_pool_party_or_picnic_to_thirsty_guests_of_all_ages_it_s_sure_to_be_a_crowd_pleaser"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.896" />
+</androidx.constraintlayout.widget.ConstraintLayout>

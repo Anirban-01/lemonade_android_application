@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lemonade Recipe Application</string>
+    <string name="text1">Lemonade is a beloved refreshment, and for good reason. It\'s the perfect balance of sweet and tart, making it extremely refreshing on a hot day. It\'s also very easy to make at home, requiring only three basic ingredients and a few minutes of your time. You\'ll never reach for bottled lemonade at the store again—nevermind the powdered and frozen stuff. This recipe makes one pitcher of lemonade or about six servings. It\'s easy to scale it up or down depending on the size of your party. Feel free to adjust the sugar to make a more or less sweet lemonade, and enjoy it as-is or mix it into iced tea, punch, or even mixed drinks. Serve homemade lemonade at your next barbecue, pool party, or picnic to thirsty guests of all ages. It\'s sure to be a crowd-pleaser.</string>
+    <string name="text2" translatable="false">Ingredients: \n \n1. 1/4 cups granulated sugar \n  \n2. 6 cups cold water divided \n  \n3. 5 to 8 lemons (1 cup of juice) \n  \n4. Lemon slices or fresh mint, garnish</string>
+    <string name="text3">In a medium (2- or 3-quart) saucepan, combine the sugar and 1 cup of water.</string>
+    <string name="text4">Bring to a boil over medium heat, stirring until all the sugar is dissolved.</string>
+    <string name="text5">Remove from heat and pour into a heat-safe container like a jar. Cool to room temperature. Refrigerate the simple syrup while you make the rest of the lemonade.</string>
+    <string name="text6">Juice the lemons and strain the juice. You want 1 cup of fresh lemon juice.</string>
+    <string name="text7">In a pitcher, add the lemon juice to the remaining 5 cups of cold water.</string>
+    <string name="text8">Stir in the refrigerated simple syrup.</string>
+    <string name="text9">Serve in ice-filled glasses, garnishing with lemon slices or fresh mint, and enjoy.</string>
+</resources>
